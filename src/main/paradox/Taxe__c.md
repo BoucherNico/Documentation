@@ -25,8 +25,8 @@ Une taxe est un prélèvement obligatoire perçu d'autorité à l'occasion d'un 
 ## Consultation
 Voici un exemple au format JSON de la consultation d'une Taxe :
 
-    POST
-    https://crm-api-{env}.experiments.opunmaif.fr/{Application}/api/Taxe__c
+    GET
+    
     
     {
 		"attributes" : {
@@ -43,7 +43,7 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4NDEyMjg3LC0xODE2NzczNSw2MDAwND
-Q5OTQsNjQ2NjYyMDE0LC0xNTI2MzQ2NTYwLC00MTU3ODY1NTYs
-MTM5NDAzNTg0N119
+eyJoaXN0b3J5IjpbLTE4MjQ5ODU0MjQsMzk4NDEyMjg3LDYwMD
+A0NDk5NCw2NDY2NjIwMTQsLTE1MjYzNDY1NjAsLTQxNTc4NjU1
+NiwxMzk0MDM1ODQ3XX0=
 -->

@@ -36,6 +36,6 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDU5NTIxOSwtNDE1Nzg2NTU2LDEzOT
-QwMzU4NDddfQ==
+eyJoaXN0b3J5IjpbLTE5MzgzMTE1MjMsMjA2MDU5NTIxOSwtND
+E1Nzg2NTU2LDEzOTQwMzU4NDddfQ==
 -->

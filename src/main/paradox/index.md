@@ -26,7 +26,7 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 		}
     }
 
-## Account
+## Account (Compte)
 
 Un compte est une personne, physique ou morale, en relation avec la plateforme de service.
 
@@ -38,23 +38,23 @@ Un compte est une personne, physique ou morale, en relation avec la plateforme d
 | Compte personnel | Personnes physiques clientes de la PFS |
 | Compte personnel Digiteam | Personnes physiques créées par la Digiteam |
 
-## Order
+## Order (Commande)
 
 ### Types d'enregistrement
 
 |Type| Description |
 |--|--|
 
-## OrderItem
+## OrderItem (Service Commandé)
 
 ### Types d'enregistrement
 
 |Type| Description |
 |--|--|
 
-## Product2
+## Product2 (Service)
 
-## PriceBookEntry
+## PriceBookEntry (
 
 ## PriceBook
 
@@ -63,9 +63,10 @@ Un compte est une personne, physique ou morale, en relation avec la plateforme d
 ## Ligne_paiement__c
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODAyMDYxNzksMTU0MzYwMjQsMTEwOD
-AyMDY3NCwyMTIyOTk0MTc2LDExMDgwMjA2NzQsMjEyMjk5NDE3
-NiwxNjg5NTY0MDE2LDExMDgwMjA2NzQsMTEwODAyMDY3NCwxNT
-MyMDMzNjg1LDE2MjQ3MjIyMTUsLTE5NjA5MTI3ODMsLTE5MjM1
-OTEyMTQsLTE5MjM1OTEyMTQsMTk0MjA1NzMwNl19
+eyJoaXN0b3J5IjpbLTcyODYwMTQ2NSwtMTg4MDIwNjE3OSwxNT
+QzNjAyNCwxMTA4MDIwNjc0LDIxMjI5OTQxNzYsMTEwODAyMDY3
+NCwyMTIyOTk0MTc2LDE2ODk1NjQwMTYsMTEwODAyMDY3NCwxMT
+A4MDIwNjc0LDE1MzIwMzM2ODUsMTYyNDcyMjIxNSwtMTk2MDkx
+Mjc4MywtMTkyMzU5MTIxNCwtMTkyMzU5MTIxNCwxOTQyMDU3Mz
+A2XX0=
 -->

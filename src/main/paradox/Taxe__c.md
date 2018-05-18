@@ -43,7 +43,7 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjY3MDM5MzAsMTYzNjE4NTcwMiw2MD
+eyJoaXN0b3J5IjpbLTYwMTI2NzMzMiwtMTgyNjcwMzkzMCw2MD
 AwNDQ5OTQsNjQ2NjYyMDE0LC0xNTI2MzQ2NTYwLC00MTU3ODY1
 NTYsMTM5NDAzNTg0N119
 -->

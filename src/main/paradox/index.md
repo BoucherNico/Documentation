@@ -26,13 +26,8 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 		}
     }
 
-@@@ index
 
-* [Compte (Account)](Account.md)
-* [Commande (Order)](Order.md)
-* [Service Commandé (OrderItem)](OrderItem.md)
-
-@@@ 
+## Compte (Account)
 
 Un compte est une personne, physique ou morale, en relation avec la plateforme de service.
 
@@ -70,11 +65,21 @@ Un compte est une personne, physique ou morale, en relation avec la plateforme d
 
 ## Taxe (Taxe__c)
 
+
+@@@ index
+
+* [Compte (Account)](Account.md)
+* [Commande (Order)](Order.md)
+* [Service Commandé (OrderItem)](OrderItem.md)
+* [Taxe (Taxe__c)](Taxe__c.md)
+
+@@@ 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkwNDQwNzEsLTE5OTY0NTQ1MzEsLT
-IxMDU3MTQ4ODUsLTE4ODAyMDYxNzksMTU0MzYwMjQsMTEwODAy
-MDY3NCwyMTIyOTk0MTc2LDExMDgwMjA2NzQsMjEyMjk5NDE3Ni
-wxNjg5NTY0MDE2LDExMDgwMjA2NzQsMTUzMjAzMzY4NSwxNjI0
-NzIyMjE1LC0xOTYwOTEyNzgzLC0xOTIzNTkxMjE0LC0xOTIzNT
-kxMjE0LDE5NDIwNTczMDZdfQ==
+eyJoaXN0b3J5IjpbMTEzNDk2MjM5NCwtMTk5NjQ1NDUzMSwtMj
+EwNTcxNDg4NSwtMTg4MDIwNjE3OSwxNTQzNjAyNCwxMTA4MDIw
+Njc0LDIxMjI5OTQxNzYsMTEwODAyMDY3NCwyMTIyOTk0MTc2LD
+E2ODk1NjQwMTYsMTEwODAyMDY3NCwxNTMyMDMzNjg1LDE2MjQ3
+MjIyMTUsLTE5NjA5MTI3ODMsLTE5MjM1OTEyMTQsLTE5MjM1OT
+EyMTQsMTk0MjA1NzMwNl19
 -->

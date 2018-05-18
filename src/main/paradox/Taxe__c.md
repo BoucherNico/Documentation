@@ -18,7 +18,7 @@ Une taxe est un prélèvement obligatoire perçu d'autorité à l'occasion d'un 
 
 ## Relations
 
-
+Taxe__c 
 
 ## Consultation
 Voici un exemple au format JSON de la consultation d'une Taxe :
@@ -36,6 +36,6 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzgzMTE1MjMsMjA2MDU5NTIxOSwtND
-E1Nzg2NTU2LDEzOTQwMzU4NDddfQ==
+eyJoaXN0b3J5IjpbLTE1OTAwMTA2MTQsLTE5MzgzMTE1MjMsLT
+QxNTc4NjU1NiwxMzk0MDM1ODQ3XX0=
 -->

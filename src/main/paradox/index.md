@@ -38,7 +38,17 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 
 ## Order
 
+### Types d'enregistrement
+
+|Type| Description |
+|--|--|
+
 ## OrderItem
+
+### Types d'enregistrement
+
+|Type| Description |
+|--|--|
 
 ## Product2
 
@@ -51,9 +61,9 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 ## Ligne_paiement__c
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg2MDc1MDYsMTEwODAyMDY3NCwyMT
-IyOTk0MTc2LDExMDgwMjA2NzQsMjEyMjk5NDE3NiwxNjg5NTY0
-MDE2LDExMDgwMjA2NzQsMTEwODAyMDY3NCwxNTMyMDMzNjg1LD
-E2MjQ3MjIyMTUsLTE5NjA5MTI3ODMsLTE5MjM1OTEyMTQsLTE5
-MjM1OTEyMTQsMTk0MjA1NzMwNl19
+eyJoaXN0b3J5IjpbMTU0MzYwMjQsMTEwODAyMDY3NCwyMTIyOT
+k0MTc2LDExMDgwMjA2NzQsMjEyMjk5NDE3NiwxNjg5NTY0MDE2
+LDExMDgwMjA2NzQsMTEwODAyMDY3NCwxNTMyMDMzNjg1LDE2Mj
+Q3MjIyMTUsLTE5NjA5MTI3ODMsLTE5MjM1OTEyMTQsLTE5MjM1
+OTEyMTQsMTk0MjA1NzMwNl19
 -->

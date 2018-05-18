@@ -36,11 +36,17 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 | Compte personnel | Personnes physiques clientes de la PFS |
 | Compte personnel Digiteam | Personnes physiques créées par la Digiteam |
 
+## Order
 
+## OrderItem
+
+## Product2
+
+## PriceBookEnt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODAyMDY3NCwyMTIyOTk0MTc2LDExMD
-gwMjA2NzQsMjEyMjk5NDE3NiwxNjg5NTY0MDE2LDExMDgwMjA2
-NzQsMjEyMjk5NDE3NiwxMTA4MDIwNjc0LDE1MzIwMzM2ODUsMT
-YyNDcyMjIxNSwtMTk2MDkxMjc4MywtMTkyMzU5MTIxNCwtMTky
-MzU5MTIxNCwxOTQyMDU3MzA2XX0=
+eyJoaXN0b3J5IjpbLTE3MTA2MjQ1MjEsMTEwODAyMDY3NCwyMT
+IyOTk0MTc2LDExMDgwMjA2NzQsMjEyMjk5NDE3NiwxNjg5NTY0
+MDE2LDExMDgwMjA2NzQsMTEwODAyMDY3NCwxNTMyMDMzNjg1LD
+E2MjQ3MjIyMTUsLTE5NjA5MTI3ODMsLTE5MjM1OTEyMTQsLTE5
+MjM1OTEyMTQsMTk0MjA1NzMwNl19
 -->

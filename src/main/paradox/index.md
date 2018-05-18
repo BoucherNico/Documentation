@@ -2,7 +2,10 @@
 
 ## Introduction
 
-> Plusieurs objets fonctionnels peuvent être implémentés au sein d'un même objet applicatif. SF permet de distinguer ces objets fonctionnels par l'intermédiaire de "types d'enregistrement". Chaque type d'enregistrement peut disposer de caractéristiques (d'un cycle de vie, de pages de présentation, de droits de consultation/création par profil, ...) indépendants des autres types d'enregistrement d'un même objet applicatif.
+### Les types d'enregistrement
+
+Plusieurs objets fonctionnels peuvent être implémentés au sein d'un même objet applicatif. SF permet de distinguer ces objets fonctionnels par l'intermédiaire de "types d'enregistrement". Chaque type d'enregistrement peut disposer de caractéristiques (d'un cycle de vie, de pages de présentation, de droits de consultation/création par profil, ...) indépendants des autres types d'enregistrement d'un même objet applicatif.
+
 
 ## Account
 
@@ -16,5 +19,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDMwMDAwMF19
+eyJoaXN0b3J5IjpbMTkwMDM3MDM3XX0=
 -->

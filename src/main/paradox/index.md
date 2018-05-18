@@ -26,8 +26,25 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 		}
     }
 
-@@@ Index
- Compte (Account)
+@@@ index
+
+* [About Otoroshi](about.md)
+* [Architecture](archi.md)
+* [Features](features.md)
+* [Quickstart](quickstart.md)
+* [Videos](videos.md)
+* [Get otoroshi](getotoroshi/index.md)
+* [First run](firstrun/index.md)
+* [Setup](setup/index.md)
+* [Using Otoroshi](usage/index.md)
+* [Integrations](integrations/index.md)
+* [Admin REST API](api.md)
+* [Embedding Otoroshi](./embedding.md)
+* [Official Rust CLI](cli.md)
+* [Deploy to production](deploy/index.md)
+* [Connectors](connectors/index.md)
+
+@@@ 
 
 Un compte est une personne, physique ou morale, en relation avec la plateforme de service.
 
@@ -66,7 +83,7 @@ Un compte est une personne, physique ou morale, en relation avec la plateforme d
 ## Taxe (Taxe__c)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTM3NDY0MywtMTk5NjQ1NDUzMSwtMj
+eyJoaXN0b3J5IjpbLTEzOTM3NzU2MSwtMTk5NjQ1NDUzMSwtMj
 EwNTcxNDg4NSwtMTg4MDIwNjE3OSwxNTQzNjAyNCwxMTA4MDIw
 Njc0LDIxMjI5OTQxNzYsMTEwODAyMDY3NCwyMTIyOTk0MTc2LD
 E2ODk1NjQwMTYsMTEwODAyMDY3NCwxNTMyMDMzNjg1LDE2MjQ3

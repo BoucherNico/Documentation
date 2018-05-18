@@ -16,6 +16,7 @@ Une taxe est un prélèvement obligatoire perçu d'autorité à l'occasion d'un 
 | Name | Nom de la Taxe | String(80) | Nom de la Taxe |
 | Taux__c | Taux | Percent | Taux de la Taxe |
 
+Voici un exemple au format JSON de
     {
 		"attributes" : {
 		    "type" : "Taxe__c",
@@ -23,18 +24,17 @@ Une taxe est un prélèvement obligatoire perçu d'autorité à l'occasion d'un 
 		},
 		"Id" : "a086E000001tGGLQA2",
 		"OwnerId" : "0050Y000003BnD6QAK",
-		  "IsDeleted" : false,
-  "Name" : "TVA : 10 %",
-  "CreatedDate" : "2018-05-14T13:11:03.000+0000",
-  "CreatedById" : "0050Y000003BnD6QAK",
-  "LastModifiedDate" : "2018-05-14T13:11:03.000+0000",
-  "LastModifiedById" : "0050Y000003BnD6QAK",
-  "SystemModstamp" : "2018-05-14T13:11:03.000+0000",
-  "Taux__c" : 10.0
-}
+		"IsDeleted" : false,
+		"Name" : "TVA : 10 %",
+		"CreatedDate" : "2018-05-14T13:11:03.000+0000",
+		"CreatedById" : "0050Y000003BnD6QAK",
+		"LastModifiedDate" : "2018-05-14T13:11:03.000+0000",
+		"LastModifiedById" : "0050Y000003BnD6QAK",
+		"Taux__c" : 10.0
+	}
 
 ## Relations
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODUxNTQ3MywtNDE1Nzg2NTU2LDEzOT
+eyJoaXN0b3J5IjpbMTI3MjQxNzc3OSwtNDE1Nzg2NTU2LDEzOT
 QwMzU4NDddfQ==
 -->

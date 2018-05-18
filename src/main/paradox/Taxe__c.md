@@ -16,8 +16,9 @@ Une taxe est un prélèvement obligatoire perçu d'autorité à l'occasion d'un 
 | Name | Nom de la Taxe | String(80) | Nom de la Taxe |
 | Taux__c | Taux | Percent | Taux de la Taxe |
 
+    enter code here
 
 ## Relations
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDAzNTg0N119
+eyJoaXN0b3J5IjpbLTQxNTc4NjU1NiwxMzk0MDM1ODQ3XX0=
 -->

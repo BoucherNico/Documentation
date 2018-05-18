@@ -42,9 +42,16 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 
 ## Product2
 
-## PriceBookEnt
+## PriceBookEntry
+
+## PriceBook
+
+## Paiement__c
+
+## Ligne_paiement__c
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA2MjQ1MjEsMTEwODAyMDY3NCwyMT
+eyJoaXN0b3J5IjpbLTE0MTg2MDc1MDYsMTEwODAyMDY3NCwyMT
 IyOTk0MTc2LDExMDgwMjA2NzQsMjEyMjk5NDE3NiwxNjg5NTY0
 MDE2LDExMDgwMjA2NzQsMTEwODAyMDY3NCwxNTMyMDMzNjg1LD
 E2MjQ3MjIyMTUsLTE5NjA5MTI3ODMsLTE5MjM1OTEyMTQsLTE5

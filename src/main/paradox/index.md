@@ -38,34 +38,34 @@ Un compte est une personne, physique ou morale, en relation avec la plateforme d
 | Compte personnel | Personnes physiques clientes de la PFS |
 | Compte personnel Digiteam | Personnes physiques créées par la Digiteam |
 
-## Order (Commande)
+## Commande (Order)
 
 ### Types d'enregistrement
 
 |Type| Description |
 |--|--|
 
-## OrderItem (Service Commandé)
+## Service Commandé (OrderItem)
 
 ### Types d'enregistrement
 
 |Type| Description |
 |--|--|
 
-## Product2 (Service)
+## Service (Product2)
 
-## PriceBookEntry (Entrée de Catalogue de Prix)
+## Entrée du Catalogue de Prix (PriceBookEntry)
 
-## PriceBook (Catalogue de Prix)
+## Catalogue de Prix (PriceBook)
 
-## Paiement__c (Paiement__c)
+## Paiement (Paiement__c)
 
 ## Ligne de Paiement (Ligne_paiement__c)
 
 ## Taxe (Taxe__c)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzkzODU3MCwtMTk5NjQ1NDUzMSwtMj
+eyJoaXN0b3J5IjpbMTg1MjE4MjAxNywtMTk5NjQ1NDUzMSwtMj
 EwNTcxNDg4NSwtMTg4MDIwNjE3OSwxNTQzNjAyNCwxMTA4MDIw
 Njc0LDIxMjI5OTQxNzYsMTEwODAyMDY3NCwyMTIyOTk0MTc2LD
 E2ODk1NjQwMTYsMTEwODAyMDY3NCwxNTMyMDMzNjg1LDE2MjQ3

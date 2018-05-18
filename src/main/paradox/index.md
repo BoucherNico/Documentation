@@ -37,9 +37,10 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 | Compte personnel Digiteam | Personnes physiques créées par la Digiteam |
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODAyMDY3NCwyMTIyOTk0MTc2LDExMD
-gwMjA2NzQsMjEyMjk5NDE3NiwxNTMyMDMzNjg1LDE2MjQ3MjIy
-MTUsLTE5NjA5MTI3ODMsLTE5MjM1OTEyMTQsLTE5MjM1OTEyMT
-QsMTk0MjA1NzMwNl19
+eyJoaXN0b3J5IjpbMTY4OTU2NDAxNiwxMTA4MDIwNjc0LDIxMj
+I5OTQxNzYsMTEwODAyMDY3NCwyMTIyOTk0MTc2LDE1MzIwMzM2
+ODUsMTYyNDcyMjIxNSwtMTk2MDkxMjc4MywtMTkyMzU5MTIxNC
+wtMTkyMzU5MTIxNCwxOTQyMDU3MzA2XX0=
 -->

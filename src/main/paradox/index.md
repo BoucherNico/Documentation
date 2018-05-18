@@ -38,8 +38,9 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjk5NDE3NiwxNjg5NTY0MDE2LDExMD
-gwMjA2NzQsMjEyMjk5NDE3NiwxMTA4MDIwNjc0LDE1MzIwMzM2
-ODUsMTYyNDcyMjIxNSwtMTk2MDkxMjc4MywtMTkyMzU5MTIxNC
-wtMTkyMzU5MTIxNCwxOTQyMDU3MzA2XX0=
+eyJoaXN0b3J5IjpbMTEwODAyMDY3NCwyMTIyOTk0MTc2LDE2OD
+k1NjQwMTYsMTEwODAyMDY3NCwyMTIyOTk0MTc2LDExMDgwMjA2
+NzQsMTUzMjAzMzY4NSwxNjI0NzIyMjE1LC0xOTYwOTEyNzgzLC
+0xOTIzNTkxMjE0LC0xOTIzNTkxMjE0LDE5NDIwNTczMDZdfQ==
+
 -->

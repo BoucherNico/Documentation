@@ -10,7 +10,11 @@ Une taxe est un prélèvement obligatoire perçu d'autorité à l'occasion d'un 
 
 ## Champs
 
+| API Name | Etiquette | 
+|--|--|
+| Standard | Il n'y a pas de type de taxe autre que la TVA |
 
+## Relations
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTE4NzczMV19
+eyJoaXN0b3J5IjpbMTA4MTc2NzE0Nl19
 -->

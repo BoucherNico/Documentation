@@ -20,7 +20,7 @@ Une taxe est un prélèvement obligatoire perçu d'autorité à l'occasion d'un 
 
 ### Objets liés aux Taxes
 
- - @ref [Entrée du Catalogue de Prix](PriceBookEntry.md) : **Entrees_du_catalogue_de_prix__r**
+ - @ref:[Entrée du Catalogue de Prix](PriceBookEntry.md) : **Entrees_du_catalogue_de_prix__r**
 
 ## Consultation
 Voici un exemple au format JSON de la consultation d'une Taxe :
@@ -43,7 +43,7 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTI2NzMzMiwtMTgyNjcwMzkzMCw2MD
-AwNDQ5OTQsNjQ2NjYyMDE0LC0xNTI2MzQ2NTYwLC00MTU3ODY1
-NTYsMTM5NDAzNTg0N119
+eyJoaXN0b3J5IjpbNjE1NDA0MDU0LC0xODI2NzAzOTMwLDYwMD
+A0NDk5NCw2NDY2NjIwMTQsLTE1MjYzNDY1NjAsLTQxNTc4NjU1
+NiwxMzk0MDM1ODQ3XX0=
 -->

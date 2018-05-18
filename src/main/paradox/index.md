@@ -58,15 +58,17 @@ Un compte est une personne, physique ou morale, en relation avec la plateforme d
 
 ## PriceBook (Catalogue de Prix)
 
-## Paiement__c (Paiement)
+## Paiement__c (Paiement__c)
 
-## Ligne_paiement__c (Ligne de Paiement)
+## Ligne de Paiement (Ligne_paiement__c)
+
+## Taxe (Taxe__c)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY0NTQ1MzEsLTIxMDU3MTQ4ODUsLT
-E4ODAyMDYxNzksMTU0MzYwMjQsMTEwODAyMDY3NCwyMTIyOTk0
-MTc2LDExMDgwMjA2NzQsMjEyMjk5NDE3NiwxNjg5NTY0MDE2LD
-ExMDgwMjA2NzQsMTUzMjAzMzY4NSwxNjI0NzIyMjE1LC0xOTYw
-OTEyNzgzLC0xOTIzNTkxMjE0LC0xOTIzNTkxMjE0LDE5NDIwNT
-czMDZdfQ==
+eyJoaXN0b3J5IjpbLTU1MzkzODU3MCwtMTk5NjQ1NDUzMSwtMj
+EwNTcxNDg4NSwtMTg4MDIwNjE3OSwxNTQzNjAyNCwxMTA4MDIw
+Njc0LDIxMjI5OTQxNzYsMTEwODAyMDY3NCwyMTIyOTk0MTc2LD
+E2ODk1NjQwMTYsMTEwODAyMDY3NCwxNTMyMDMzNjg1LDE2MjQ3
+MjIyMTUsLTE5NjA5MTI3ODMsLTE5MjM1OTEyMTQsLTE5MjM1OT
+EyMTQsMTk0MjA1NzMwNl19
 -->

@@ -13,7 +13,8 @@ Plusieurs objets fonctionnels peuvent être implémentés au sein d'un même obj
 Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le préciser dans les structures json. Voici un exemple de création de "Compte personnel" dans l'objet applicatif "Account" :
 
     POST
-    /services/da{
+    /services/data/v42.0/sobjects/Account
+    {
 	    "FirstName" : "John",
 	    "LastName" : "Doe",
 	    "PersonEmail" : "john.doe@example.com",
@@ -50,7 +51,7 @@ Pour enregistrer un account de type "Compte personnel", utiliser un json de ce f
     }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQzMjk0NSwtMTk2MDkxMjc4MywtMT
+eyJoaXN0b3J5IjpbMTYxNDgxMDAzNSwtMTk2MDkxMjc4MywtMT
 kyMzU5MTIxNCw1NDE3MDQ0OCwtMTkyMzU5MTIxNCwxOTQyMDU3
 MzA2XX0=
 -->

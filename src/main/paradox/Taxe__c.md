@@ -12,9 +12,10 @@ Une taxe est un prélèvement obligatoire perçu d'autorité à l'occasion d'un 
 
 | API Name | Etiquette | Type | Description |
 |--|--|--|--|
-| Id |  |
+| Id |  |  | Identifiant technique de l'enregistrement (variable selon les environnements) |
+| Name | Libellé
 
 ## Relations
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzkzOTcwOF19
+eyJoaXN0b3J5IjpbLTE4MTE2Nzg0MDBdfQ==
 -->

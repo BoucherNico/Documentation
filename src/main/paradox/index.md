@@ -23,12 +23,13 @@ Plusieurs objets fonctionnels peuvent être implémentés au sein d'un même obj
 Pour enregistrer un account de type "Compte personnel", utiliser un json de ce format-ci :
 
     {
-	    FirstName : "",
-	    LastName : "",
-	    
+	    "FirstName" : "John",
+	    "LastName" : "Doe",
+	    "PersonEmail" : "john.doe@example.com",
+	    "RecordType"
     }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM3OTcxNDgsLTE5MjM1OTEyMTQsNT
+eyJoaXN0b3J5IjpbLTE1ODIxMDk1NTUsLTE5MjM1OTEyMTQsNT
 QxNzA0NDgsLTE5MjM1OTEyMTQsMTk0MjA1NzMwNl19
 -->

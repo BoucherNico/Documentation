@@ -36,22 +36,9 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 | Compte personnel | Personnes physiques clientes de la PFS |
 | Compte personnel Digiteam | Personnes physiques créées par la Digiteam |
 
-Pour enregistrer un account de type "Compte personnel", utiliser un json de ce format-ci :
-
-    {
-	    "FirstName" : "John",
-	    "LastName" : "Doe",
-	    "PersonEmail" : "john.doe@example.com",
-	    "RecordType" : {
-		    "attributes" : {
-			    "type" : "RecordType"
-			    },
-			"Name" : "Compte personnel"
-		}
-    }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDgxMDAzNSwtMTk2MDkxMjc4MywtMT
+eyJoaXN0b3J5IjpbMTYyNDcyMjIxNSwtMTk2MDkxMjc4MywtMT
 kyMzU5MTIxNCw1NDE3MDQ0OCwtMTkyMzU5MTIxNCwxOTQyMDU3
 MzA2XX0=
 -->

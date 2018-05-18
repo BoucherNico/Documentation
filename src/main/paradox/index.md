@@ -30,10 +30,11 @@ Pour enregistrer un account de type "Compte personnel", utiliser un json de ce f
 		    "attributes" : {
 			    "type" : "RecordType"
 			    },
-			
+			"Name" : "Compte personnel"
+		}
     }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjAxMDA3OCwtMTkyMzU5MTIxNCw1ND
-E3MDQ0OCwtMTkyMzU5MTIxNCwxOTQyMDU3MzA2XX0=
+eyJoaXN0b3J5IjpbLTIxMzYxNTQyNzQsLTE5MjM1OTEyMTQsNT
+QxNzA0NDgsLTE5MjM1OTEyMTQsMTk0MjA1NzMwNl19
 -->

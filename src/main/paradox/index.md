@@ -26,7 +26,8 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 		}
     }
 
-## Account (Compte)
+@@@ Index
+ Compte (Account)
 
 Un compte est une personne, physique ou morale, en relation avec la plateforme de service.
 
@@ -65,7 +66,7 @@ Un compte est une personne, physique ou morale, en relation avec la plateforme d
 ## Taxe (Taxe__c)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjE4MjAxNywtMTk5NjQ1NDUzMSwtMj
+eyJoaXN0b3J5IjpbMTc5OTM3NDY0MywtMTk5NjQ1NDUzMSwtMj
 EwNTcxNDg4NSwtMTg4MDIwNjE3OSwxNTQzNjAyNCwxMTA4MDIw
 Njc0LDIxMjI5OTQxNzYsMTEwODAyMDY3NCwyMTIyOTk0MTc2LD
 E2ODk1NjQwMTYsMTEwODAyMDY3NCwxNTMyMDMzNjg1LDE2MjQ3

@@ -4,7 +4,7 @@
 
 ### Les formats de donnée
 
-Les formats de données sont référencés dans la documentation originale.
+Les formats de données sont référencés dans la [documentation originale](https://help.salesforce.com/articleView?id=custom_field_types.thm&type=5).
 
 ### Les types d'enregistrement
 
@@ -38,7 +38,7 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjAzMzY4NSwxNjI0NzIyMjE1LC0xOT
-YwOTEyNzgzLC0xOTIzNTkxMjE0LDU0MTcwNDQ4LC0xOTIzNTkx
-MjE0LDE5NDIwNTczMDZdfQ==
+eyJoaXN0b3J5IjpbMjEyMjk5NDE3NiwxNTMyMDMzNjg1LDE2Mj
+Q3MjIyMTUsLTE5NjA5MTI3ODMsLTE5MjM1OTEyMTQsNTQxNzA0
+NDgsLTE5MjM1OTEyMTQsMTk0MjA1NzMwNl19
 -->

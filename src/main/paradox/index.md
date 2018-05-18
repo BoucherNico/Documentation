@@ -20,13 +20,15 @@ Plusieurs objets fonctionnels peuvent être implémentés au sein d'un même obj
 | Compte personnel | Personnes physiques clientes de la PFS |
 | Compte personnel Digiteam | Personnes physiques créées par la Digiteam |
 
-Pour enregistrer un account de type "Compte personnel", utiliser un json  :
+Pour enregistrer un account de type "Compte personnel", utiliser un json de ce format-ci :
 
     {
-    
+	    FirstName : "",
+	    LastName : "",
+	    
     }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODY4MzM1MywtMTkyMzU5MTIxNCw1ND
-E3MDQ0OCwtMTkyMzU5MTIxNCwxOTQyMDU3MzA2XX0=
+eyJoaXN0b3J5IjpbLTExNTM3OTcxNDgsLTE5MjM1OTEyMTQsNT
+QxNzA0NDgsLTE5MjM1OTEyMTQsMTk0MjA1NzMwNl19
 -->

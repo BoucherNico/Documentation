@@ -10,6 +10,8 @@
 
 Plusieurs objets fonctionnels peuvent être implémentés au sein d'un même objet applicatif. Salesforce permet de distinguer ces objets fonctionnels par l'intermédiaire de "types d'enregistrement". Chaque type d'enregistrement peut disposer de caractéristiques (d'un cycle de vie, de pages de présentation, de droits de consultation/création par profil, ...) indépendants des autres types d'enregistrement d'un même objet applicatif.
 
+Pour enregistrer un objet avec un type d'enregistrement particulier, il faut utiliser des structures json d
+
 ## Account
 
 ### Types d'enregistrement
@@ -35,6 +37,6 @@ Pour enregistrer un account de type "Compte personnel", utiliser un json de ce f
     }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzYxNTQyNzQsLTE5MjM1OTEyMTQsNT
-QxNzA0NDgsLTE5MjM1OTEyMTQsMTk0MjA1NzMwNl19
+eyJoaXN0b3J5IjpbNTE2NDEzNjAsLTE5MjM1OTEyMTQsNTQxNz
+A0NDgsLTE5MjM1OTEyMTQsMTk0MjA1NzMwNl19
 -->

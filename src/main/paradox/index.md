@@ -4,7 +4,7 @@
 
 ### Les formats de donnée
 
-
+Les formats de données sont référencés dans la documentation originale.
 
 ### Les types d'enregistrement
 
@@ -38,7 +38,7 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDcyMjIxNSwtMTk2MDkxMjc4MywtMT
-kyMzU5MTIxNCw1NDE3MDQ0OCwtMTkyMzU5MTIxNCwxOTQyMDU3
-MzA2XX0=
+eyJoaXN0b3J5IjpbMTUzMjAzMzY4NSwxNjI0NzIyMjE1LC0xOT
+YwOTEyNzgzLC0xOTIzNTkxMjE0LDU0MTcwNDQ4LC0xOTIzNTkx
+MjE0LDE5NDIwNTczMDZdfQ==
 -->

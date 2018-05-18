@@ -28,7 +28,7 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 
 ## Account
 
-Un compte est une personne, physique ou morale, 
+Un compte est une personne, physique ou morale, en relation avec la plateforme de service.
 
 ### Types d'enregistrement
 
@@ -63,9 +63,9 @@ Un compte est une personne, physique ou morale,
 ## Ligne_paiement__c
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzcxNzg5OSwxNTQzNjAyNCwxMTA4MD
-IwNjc0LDIxMjI5OTQxNzYsMTEwODAyMDY3NCwyMTIyOTk0MTc2
-LDE2ODk1NjQwMTYsMTEwODAyMDY3NCwxMTA4MDIwNjc0LDE1Mz
-IwMzM2ODUsMTYyNDcyMjIxNSwtMTk2MDkxMjc4MywtMTkyMzU5
-MTIxNCwtMTkyMzU5MTIxNCwxOTQyMDU3MzA2XX0=
+eyJoaXN0b3J5IjpbLTE4ODAyMDYxNzksMTU0MzYwMjQsMTEwOD
+AyMDY3NCwyMTIyOTk0MTc2LDExMDgwMjA2NzQsMjEyMjk5NDE3
+NiwxNjg5NTY0MDE2LDExMDgwMjA2NzQsMTEwODAyMDY3NCwxNT
+MyMDMzNjg1LDE2MjQ3MjIyMTUsLTE5NjA5MTI3ODMsLTE5MjM1
+OTEyMTQsLTE5MjM1OTEyMTQsMTk0MjA1NzMwNl19
 -->

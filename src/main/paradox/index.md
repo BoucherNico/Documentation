@@ -28,6 +28,8 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 
 ## Account
 
+Un compte 
+
 ### Types d'enregistrement
 
 |Type| Description |
@@ -61,9 +63,9 @@ Pour enregistrer un objet avec un type d'enregistrement particulier, il faut le 
 ## Ligne_paiement__c
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzYwMjQsMTEwODAyMDY3NCwyMTIyOT
-k0MTc2LDExMDgwMjA2NzQsMjEyMjk5NDE3NiwxNjg5NTY0MDE2
-LDExMDgwMjA2NzQsMTEwODAyMDY3NCwxNTMyMDMzNjg1LDE2Mj
-Q3MjIyMTUsLTE5NjA5MTI3ODMsLTE5MjM1OTEyMTQsLTE5MjM1
-OTEyMTQsMTk0MjA1NzMwNl19
+eyJoaXN0b3J5IjpbLTExMjY4MTkyNjksMTU0MzYwMjQsMTEwOD
+AyMDY3NCwyMTIyOTk0MTc2LDExMDgwMjA2NzQsMjEyMjk5NDE3
+NiwxNjg5NTY0MDE2LDExMDgwMjA2NzQsMTEwODAyMDY3NCwxNT
+MyMDMzNjg1LDE2MjQ3MjIyMTUsLTE5NjA5MTI3ODMsLTE5MjM1
+OTEyMTQsLTE5MjM1OTEyMTQsMTk0MjA1NzMwNl19
 -->

@@ -76,9 +76,6 @@ Voici un exemple au format JSON de la consultation d'un Account (exemple avec un
 		"Description" : null,
 		"CreatedDate" : "2018-05-22T12:09:13.000+0000",
 		"LastModifiedDate" : "2018-05-22T12:09:15.000+0000",
-		"LastActivityDate" : null,
-		"LastViewedDate" : "2018-05-22T12:15:22.000+0000",
-		"LastReferencedDate" : "2018-05-22T12:15:22.000+0000",
 		"PersonContactId" : "0036E00000PBR6RQAX",
 		"IsPersonAccount" : true,
 		"PersonMailingStreet" : null,
@@ -146,6 +143,6 @@ Voici un exemple au format JSON de la création d'un Compte :
 	{
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5MTMyMDUzLC0zODQzMjUwMTIsLTIwMj
-MzMzI0NTEsMTY4NjE3MTI5MywtMTg5MzI4NjU4M119
+eyJoaXN0b3J5IjpbLTE4ODU4Mjg0NTQsLTM4NDMyNTAxMiwtMj
+AyMzMzMjQ1MSwxNjg2MTcxMjkzLC0xODkzMjg2NTgzXX0=
 -->

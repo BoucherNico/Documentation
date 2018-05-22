@@ -145,16 +145,14 @@ Voici un exemple au format JSON de la consultation d'un Account (exemple avec un
 
 ## Enregistrement
 
-Voici un exemple au format JSON de la création d'une Taxe :
+Voici un exemple au format JSON de la création d'un Compte :
 
 	POST
-	/services/data/v43.0/sobjects/Taxe__c/
+	/services/data/v43.0/sobjects/Account/
 	
 	{
-		"Name" : "TVA : 1,1 %",
-		"Taux__c" : 1.10
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTk4ODQ4OCwxNjg2MTcxMjkzLC0xOD
-kzMjg2NTgzXX0=
+eyJoaXN0b3J5IjpbLTIwMjMzMzI0NTEsMTY4NjE3MTI5MywtMT
+g5MzI4NjU4M119
 -->

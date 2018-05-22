@@ -35,15 +35,12 @@ Voici un exemple au format JSON de la consultation d'un Account (exemple avec un
 		    "url" : "/services/data/v43.0/sobjects/Account/0016E00000Ww9GKQAZ"
 			},
 		"Id" : "0016E00000Ww9GKQAZ",
-		"IsDeleted" : false,
-		"MasterRecordId" : null,
 		"Name" : "John DOE",
 		"LastName" : "DOE",
 		"FirstName" : "John",
 		"Salutation" : "Monsieur",
 		"Type" : null,
 		"RecordTypeId" : "0120Y000000RXpxQAG",
-		"ParentId" : null,
 		"BillingStreet" : null,
 		"BillingCity" : null,
 		"BillingState" : null,
@@ -153,6 +150,6 @@ Voici un exemple au format JSON de la création d'un Compte :
 	{
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjMzMzI0NTEsMTY4NjE3MTI5MywtMT
-g5MzI4NjU4M119
+eyJoaXN0b3J5IjpbLTM4NDMyNTAxMiwtMjAyMzMzMjQ1MSwxNj
+g2MTcxMjkzLC0xODkzMjg2NTgzXX0=
 -->

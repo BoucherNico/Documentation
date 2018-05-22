@@ -24,7 +24,7 @@ Un compte est une personne, physique ou morale, en relation avec la plateforme d
  - @ref:[Entrée du Catalogue de Prix](PriceBookEntry.md) : **Entrees_du_catalogue_de_prix__r**
 
 ## Consultation
-Voici un exemple au format JSON de la consultation d'une Taxe :
+Voici un exemple au format JSON de la consultation d'un Account (exemple avec un compte personnel) :
 
     GET
     /services/data/v43.0/sobjects/Taxe__c/a086E000001tGGLQA2
@@ -155,6 +155,6 @@ Voici un exemple au format JSON de la création d'une Taxe :
 		"Taux__c" : 1.10
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTAyNDI3OTksMTY4NjE3MTI5MywtMT
-g5MzI4NjU4M119
+eyJoaXN0b3J5IjpbMTM4OTk4ODQ4OCwxNjg2MTcxMjkzLC0xOD
+kzMjg2NTgzXX0=
 -->

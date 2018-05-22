@@ -74,12 +74,8 @@ Voici un exemple au format JSON de la consultation d'un Account (exemple avec un
 		"Industry" : null,
 		"NumberOfEmployees" : null,
 		"Description" : null,
-		"OwnerId" : "0050Y000003ryMCQAY",
 		"CreatedDate" : "2018-05-22T12:09:13.000+0000",
-		"CreatedById" : "0050Y000003ryMCQAY",
 		"LastModifiedDate" : "2018-05-22T12:09:15.000+0000",
-		"LastModifiedById" : "0050Y000003ryMCQAY",
-		"SystemModstamp" : "2018-05-22T12:09:15.000+0000",
 		"LastActivityDate" : null,
 		"LastViewedDate" : "2018-05-22T12:15:22.000+0000",
 		"LastReferencedDate" : "2018-05-22T12:15:22.000+0000",
@@ -150,6 +146,6 @@ Voici un exemple au format JSON de la création d'un Compte :
 	{
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDMyNTAxMiwtMjAyMzMzMjQ1MSwxNj
-g2MTcxMjkzLC0xODkzMjg2NTgzXX0=
+eyJoaXN0b3J5IjpbMjk5MTMyMDUzLC0zODQzMjUwMTIsLTIwMj
+MzMzI0NTEsMTY4NjE3MTI5MywtMTg5MzI4NjU4M119
 -->

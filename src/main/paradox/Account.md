@@ -126,15 +126,12 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 		"TECH_Somme_des_notes__c" : 0.0,
 		"Id_Compte__c" : null,
 		"Logo__c" : null,
-		"Moyenne_Note_Satisfaction_Partenaire__c" : null,
 		"SIRET__c" : null,
 		"Univers__c" : null,
 		"Fiche_partenaire__c" : "<a href=\" \" target=\"_self\">ici</a>",
-		"Lien_vers_fiche_partenaire__c" : null,
 		"Age__pc" : null,
 		"Canal_prefere__pc" : null,
 		"Disponibilite__pc" : null,
-		"ID_Siebel__pc" : null,
 		"N_societaire__pc" : null,
 		"Opt_in_Email__pc" : false,
 		"Personne_contacter__pc" : false,
@@ -143,9 +140,7 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 		"Opt_in_Email_Maif__pc" : "Non",
 		"Opt_in_Email_Partenaire_Maif__pc" : "Non",
 		"Opt_in_telephone_Maif__pc" : null,
-		"Rue__pc" : null,
 		"Tech_Adresse__pc" : "-",
-		"Ville_Commune__pc" : null
 	}
 
 ## Enregistrement
@@ -160,6 +155,6 @@ Voici un exemple au format JSON de la création d'une Taxe :
 		"Taux__c" : 1.10
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTY4MTU1NiwxNjg2MTcxMjkzLC0xOD
-kzMjg2NTgzXX0=
+eyJoaXN0b3J5IjpbLTE5MTAyNDI3OTksMTY4NjE3MTI5MywtMT
+g5MzI4NjU4M119
 -->

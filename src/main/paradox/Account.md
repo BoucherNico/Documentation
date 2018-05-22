@@ -33,7 +33,7 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 		"attributes" : {
 		    "type" : "Account",
 		    "url" : "/services/data/v43.0/sobjects/Account/0016E00000Ww9GKQAZ"
-		},
+			},
 		"Id" : "0016E00000Ww9GKQAZ",
 		"IsDeleted" : false,
 		"MasterRecordId" : null,
@@ -61,7 +61,7 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 		    "postalCode" : null,
 		    "state" : null,
 		    "street" : null
-		},
+			},
 		"ShippingStreet" : null,
 		"ShippingCity" : null,
 		"ShippingState" : null,
@@ -165,6 +165,6 @@ Voici un exemple au format JSON de la création d'une Taxe :
 		"Taux__c" : 1.10
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjM4MTMxLDE2ODYxNzEyOTMsLTE4OT
+eyJoaXN0b3J5IjpbMzkxMjIxOTM5LDE2ODYxNzEyOTMsLTE4OT
 MyODY1ODNdfQ==
 -->

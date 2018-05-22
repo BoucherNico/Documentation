@@ -44,10 +44,15 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 Voici un exemple au format JSON de la création d'une Taxe :
 
 	POST
+	/services/data/v43.0/sobjects/Taxe__c/
 	
+	{
+		"Name" : "TVA : 1,1 %",
+		"Taux__c" : 1.10
+	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4NTE3MTEwLDE4OTU3MzEyMDUsLTQ3ND
-M1OTA1MiwxNjE1OTQ4NzE0LC02MTAwMzI1NDQsNjE1NDA0MDU0
-LDYwMDA0NDk5NCw2NDY2NjIwMTQsLTE1MjYzNDY1NjAsLTQxNT
-c4NjU1NiwxMzk0MDM1ODQ3XX0=
+eyJoaXN0b3J5IjpbLTU1NDk5NTU5Nyw5NTg1MTcxMTAsMTg5NT
+czMTIwNSwtNDc0MzU5MDUyLDE2MTU5NDg3MTQsLTYxMDAzMjU0
+NCw2MTU0MDQwNTQsNjAwMDQ0OTk0LDY0NjY2MjAxNCwtMTUyNj
+M0NjU2MCwtNDE1Nzg2NTU2LDEzOTQwMzU4NDddfQ==
 -->

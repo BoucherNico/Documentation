@@ -129,12 +129,10 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 		"Moyenne_Note_Satisfaction_Partenaire__c" : null,
 		"SIRET__c" : null,
 		"Univers__c" : null,
-		"CA_genere__c" : 0.0,
 		"Fiche_partenaire__c" : "<a href=\" \" target=\"_self\">ici</a>",
 		"Lien_vers_fiche_partenaire__c" : null,
 		"IdMAIFConnect__pc" : null,
 		"Age__pc" : null,
-		"Adresse__pc" : "-",
 		"Canal_prefere__pc" : null,
 		"Disponibilite__pc" : null,
 		"ID_Siebel__pc" : null,
@@ -143,7 +141,6 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
 		"Personne_contacter__pc" : false,
 		"Refus_sollicitation__pc" : false,
 		"Statut__pc" : null,
-		"Code_postal__pc" : null,
 		"IdPersonne__pc" : null,
 		"Opt_in_Email_Maif__pc" : "Non",
 		"Opt_in_Email_Partenaire_Maif__pc" : "Non",
@@ -165,6 +162,6 @@ Voici un exemple au format JSON de la création d'une Taxe :
 		"Taux__c" : 1.10
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxMjIxOTM5LDE2ODYxNzEyOTMsLTE4OT
+eyJoaXN0b3J5IjpbOTYzMzMzMTM1LDE2ODYxNzEyOTMsLTE4OT
 MyODY1ODNdfQ==
 -->

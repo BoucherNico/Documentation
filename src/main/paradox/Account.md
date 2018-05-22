@@ -32,27 +32,27 @@ Voici un exemple au format JSON de la consultation d'une Taxe :
     {
 		"attributes" : {
 	    "type" : "Account",
-    "url" : "/services/data/v43.0/sobjects/Account/0016E00000Ww9GKQAZ"
-	},
-  "Id" : "0016E00000Ww9GKQAZ",
-  "IsDeleted" : false,
-  "MasterRecordId" : null,
-  "Name" : "John DOE",
-  "LastName" : "DOE",
-  "FirstName" : "John",
-  "Salutation" : "Monsieur",
-  "Type" : null,
-  "RecordTypeId" : "0120Y000000RXpxQAG",
-  "ParentId" : null,
-  "BillingStreet" : null,
-  "BillingCity" : null,
-  "BillingState" : null,
-  "BillingPostalCode" : null,
-  "BillingCountry" : "FRANCE",
-  "BillingLatitude" : null,
-  "BillingLongitude" : null,
-  "BillingGeocodeAccuracy" : null,
-  "BillingAddress" : {
+	    "url" : "/services/data/v43.0/sobjects/Account/0016E00000Ww9GKQAZ"
+		},
+	"Id" : "0016E00000Ww9GKQAZ",
+	"IsDeleted" : false,
+	"MasterRecordId" : null,
+	"Name" : "John DOE",
+	"LastName" : "DOE",
+	"FirstName" : "John",
+	"Salutation" : "Monsieur",
+	"Type" : null,
+	"RecordTypeId" : "0120Y000000RXpxQAG",
+	"ParentId" : null,
+	"BillingStreet" : null,
+	"BillingCity" : null,
+	"BillingState" : null,
+	"BillingPostalCode" : null,
+	"BillingCountry" : "FRANCE",
+	"BillingLatitude" : null,
+	"BillingLongitude" : null,
+	"BillingGeocodeAccuracy" : null,
+	"BillingAddress" : {
     "city" : null,
     "country" : "FRANCE",
     "geocodeAccuracy" : null,
@@ -165,6 +165,6 @@ Voici un exemple au format JSON de la création d'une Taxe :
 		"Taux__c" : 1.10
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NzIwMTk1LDE2ODYxNzEyOTMsLTE4OT
+eyJoaXN0b3J5IjpbMjQ0NDIwMDI3LDE2ODYxNzEyOTMsLTE4OT
 MyODY1ODNdfQ==
 -->

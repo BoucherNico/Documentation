@@ -15,7 +15,7 @@ Un compte est une personne, physique ou morale, en relation avec la plateforme d
 | API Name | Etiquette | Type | Description |
 |--|--|--|--|
 | Id |  |  | Identifiant technique de l'enregistrement (variable selon les environnements) |
-| Name | Nom de la Taxe | String(80) | Nom de la Taxe |
+| Name | Nom du compte | String(80) | Nom de la Taxe |
 
 ## Relations
 
@@ -52,5 +52,5 @@ Voici un exemple au format JSON de la création d'une Taxe :
 		"Taux__c" : 1.10
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzY4MjMyOF19
+eyJoaXN0b3J5IjpbLTE4OTMyODY1ODNdfQ==
 -->

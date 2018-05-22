@@ -101,14 +101,6 @@ Voici un exemple au format JSON de la consultation d'un Account (exemple avec un
 		"PersonEmail" : "j.doe@example.fr",
 		"PersonTitle" : null,
 		"PersonDepartment" : null,
-		"PersonLastCURequestDate" : null,
-		"PersonLastCUUpdateDate" : null,
-		"PersonEmailBouncedReason" : null,
-		"PersonEmailBouncedDate" : null,
-		"Jigsaw" : null,
-		"JigsawCompanyId" : null,
-		"AccountSource" : null,
-		"SicDesc" : null,
 		"IdPersonne__c" : null,
 		"Id_MAIF__c" : "5b04086b5517008aac159c95",
 		"Note_moyenne__c" : null,
@@ -143,6 +135,6 @@ Voici un exemple au format JSON de la création d'un Compte :
 	{
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU4Mjg0NTQsLTM4NDMyNTAxMiwtMj
-AyMzMzMjQ1MSwxNjg2MTcxMjkzLC0xODkzMjg2NTgzXX0=
+eyJoaXN0b3J5IjpbOTc2NTQ2MTk0LC0zODQzMjUwMTIsLTIwMj
+MzMzI0NTEsMTY4NjE3MTI5MywtMTg5MzI4NjU4M119
 -->

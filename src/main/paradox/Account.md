@@ -15,10 +15,9 @@ Un compte est une personne, physique ou morale, en relation avec la plateforme d
 | API Name | Etiquette | Type | Description |
 |--|--|--|--|
 | Id |  |  | Identifiant technique de l'enregistrement (variable selon les environnements) |
-| Name | 
+| Name | Nom du compte |
 | FirstName | Prénom | String(80) | Nom de la Taxe |
 | LastName |  |  |  |  |  |  |
-| FirstName |  |  |  |  |  |  |
 | Salutation |  |  |  |  |  |  |
 | Type |  |  |  |  |  |  |
 | RecordTypeId |  |  |  |  |  |  |
@@ -223,7 +222,7 @@ Voici un exemple au format JSON de la création d'un Compte :
 	{
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA0NTk0NDEsLTQ3NzU4ODA1NCwtMT
-IzNzQ4OTIyMyw5NzY1NDYxOTQsLTM4NDMyNTAxMiwtMjAyMzMz
-MjQ1MSwxNjg2MTcxMjkzLC0xODkzMjg2NTgzXX0=
+eyJoaXN0b3J5IjpbLTM1NzcwNzExNywtNDc3NTg4MDU0LC0xMj
+M3NDg5MjIzLDk3NjU0NjE5NCwtMzg0MzI1MDEyLC0yMDIzMzMy
+NDUxLDE2ODYxNzEyOTMsLTE4OTMyODY1ODNdfQ==
 -->

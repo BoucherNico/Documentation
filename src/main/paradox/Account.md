@@ -15,8 +15,8 @@ Un compte est une personne, physique ou morale, en relation avec la plateforme d
 | API Name | Etiquette | Type | Description | Partenaire | Compte personnel | Compte personnel Digiteam
 |--|--|--|--|--|--|--
 | Id |  |  | Identifiant technique de l'enregistrement (variable selon les environnements) | 
-| Name | Nom du compte | 
-| FirstName | Prénom | String(80) | Nom de la Taxe |
+| Name | Nom du compte | String(255) | 
+| FirstName | Prénom | String(80) |  |
 | LastName |  |  |  |  |  |  |
 | Salutation |  |  |  |  |  |  |
 | Type |  |  |  |  |  |  |
@@ -222,7 +222,8 @@ Voici un exemple au format JSON de la création d'un Compte :
 	{
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTE0MTk0NCwtNDc3NTg4MDU0LC0xMj
-M3NDg5MjIzLDk3NjU0NjE5NCwtMzg0MzI1MDEyLC0yMDIzMzMy
-NDUxLDE2ODYxNzEyOTMsLTE4OTMyODY1ODNdfQ==
+eyJoaXN0b3J5IjpbMTg1OTE3MDM4MCwtODQ1MTQxOTQ0LC00Nz
+c1ODgwNTQsLTEyMzc0ODkyMjMsOTc2NTQ2MTk0LC0zODQzMjUw
+MTIsLTIwMjMzMzI0NTEsMTY4NjE3MTI5MywtMTg5MzI4NjU4M1
+19
 -->

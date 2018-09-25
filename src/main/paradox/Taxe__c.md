@@ -15,7 +15,7 @@ Une taxe est un prélèvement obligatoire perçu d'autorité à l'occasion d'un 
 | Id |  |  | Identifiant technique de l'enregistrement (variable selon les environnements) |
 | Name | Nom de la Taxe | String(80) | Nom de la Taxe |
 | Taux__c | Taux | Percent | Taux de la Taxe |
-- [x]g
+| [x] 
 
 ## Relations
 
@@ -52,9 +52,9 @@ Voici un exemple au format JSON de la création d'une Taxe :
 		"Taux__c" : 1.10
 	}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTIzMzg4LC0xNjczNjU1ODU2LC01NT
-Q5OTU1OTcsOTU4NTE3MTEwLDE4OTU3MzEyMDUsLTQ3NDM1OTA1
-MiwxNjE1OTQ4NzE0LC02MTAwMzI1NDQsNjE1NDA0MDU0LDYwMD
-A0NDk5NCw2NDY2NjIwMTQsLTE1MjYzNDY1NjAsLTQxNTc4NjU1
-NiwxMzk0MDM1ODQ3XX0=
+eyJoaXN0b3J5IjpbMTI1NjIzODUyMiwtMTY3MzY1NTg1NiwtNT
+U0OTk1NTk3LDk1ODUxNzExMCwxODk1NzMxMjA1LC00NzQzNTkw
+NTIsMTYxNTk0ODcxNCwtNjEwMDMyNTQ0LDYxNTQwNDA1NCw2MD
+AwNDQ5OTQsNjQ2NjYyMDE0LC0xNTI2MzQ2NTYwLC00MTU3ODY1
+NTYsMTM5NDAzNTg0N119
 -->
